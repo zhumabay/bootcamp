@@ -3,5 +3,6 @@ public class SomeClass {
 
     public static void main(String[] args) {
         System.out.println("Hello first app");
+        System.out.println("ahoi, kamarady");
     }
 }
